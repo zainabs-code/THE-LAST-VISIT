@@ -1,0 +1,13 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Windows files
+desktop.ini
+
+# Local VS Code settings
+.vscode/settings.json
